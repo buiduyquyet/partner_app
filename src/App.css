@@ -1,0 +1,8 @@
+.text-bfs{
+    width: max-content;
+    padding: 3px;
+    border-radius: 3px;
+    display: flex;
+    gap: 7px;
+    background-color: #E0F0FF;
+}
