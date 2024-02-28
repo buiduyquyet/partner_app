@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/partner-app/static/css/main.71dda81d.css",
+    "main.js": "/partner-app/static/js/main.7d34b83b.js",
+    "static/js/453.ae9dfcb3.chunk.js": "/partner-app/static/js/453.ae9dfcb3.chunk.js",
+    "static/media/img_quote_snap_partner.png.png": "/partner-app/static/media/img_quote_snap_partner.png.06cfdc6f473faa7f3f89.png",
+    "static/media/logo.svg": "/partner-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/partner-app/index.html",
+    "static/media/icon_bfs.svg": "/partner-app/static/media/icon_bfs.e9a6f934038787511c2b3a8616c6d397.svg",
+    "static/media/icon_star.svg": "/partner-app/static/media/icon_star.36c236bdc2dcdeb67d2c8c8118789a5a.svg",
+    "main.71dda81d.css.map": "/partner-app/static/css/main.71dda81d.css.map",
+    "main.7d34b83b.js.map": "/partner-app/static/js/main.7d34b83b.js.map",
+    "453.ae9dfcb3.chunk.js.map": "/partner-app/static/js/453.ae9dfcb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71dda81d.css",
+    "static/js/main.7d34b83b.js"
+  ]
+}
