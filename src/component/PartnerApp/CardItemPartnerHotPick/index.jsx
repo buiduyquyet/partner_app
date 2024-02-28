@@ -13,7 +13,7 @@ import {
 
 const CardItemPartnerApp = () => {
   return (
-    <div style={{ maxWidth: '32%'}}>
+    <div>
     <Card padding={"0"}>
       <BlockStack gap={"300"}>
         <img src={img_quote_snap_partner} alt="" />
